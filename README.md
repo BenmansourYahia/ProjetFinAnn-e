@@ -1,4 +1,4 @@
-# Goyna Jewelry E-Commerce Platform
+# Elegance Jewels E-Commerce Platform
 
 A full-stack e-commerce application built with Node.js, React, and MongoDB.
 
